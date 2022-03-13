@@ -5,6 +5,8 @@ Neste curso é ensinado como contrubuir com projetos de código aberto.
 
 Link para o curso [Python Pro] (https://pythonpro.com.br/)
 
+[![Build Status](https://app.travis-ci.com/Sarkan-DF/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Sarkan-DF/libpythonpro)
+
 Versão suportada 3 de Python.
 
 Para instalar:
